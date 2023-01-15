@@ -1,6 +1,5 @@
 #test REPO
 New text
+=======
+Some text for fix3
 
-
-Some more text for fix
-fix 2 changes
